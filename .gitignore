@@ -1,0 +1,13 @@
+*.xml
+*.html
+*.pyc
+/.idea
+/logs
+/__pycache__
+*.out
+*.log
+build/*
+dbs/*
+eggs/*
+logs/*
+project.egg-info/*
